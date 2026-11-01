@@ -29,55 +29,6 @@ I'm a Cloud and DevOps Engineer passionate about designing, deploying, and manag
 
 ---
 
-## Featured Projects
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Gautam2k7/aws-infra-terraform">
-        <img src="https://repository-images.githubusercontent.com/00000000/00000000-0000-0000-0000-000000000000" width="260" alt="AWS Infrastructure with Terraform"/>
-      </a>
-      <br>
-      <b>AWS Infrastructure with Terraform</b>
-      <br>
-      <sub>VPC, EC2, RDS, and IAM provisioned via Infrastructure as Code</sub>
-      <br>
-      <br>
-      <code>Terraform</code> · <code>AWS</code> · <code>VPC</code> · <code>IAM</code>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Gautam2k7/ci-cd-pipeline-github-actions">
-        <img src="https://repository-images.githubusercontent.com/00000000/00000000-0000-0000-0000-000000000000" width="260" alt="CI/CD Pipeline with GitHub Actions"/>
-      </a>
-      <br>
-      <b>CI/CD Pipeline with GitHub Actions</b>
-      <br>
-      <sub>Automated build, test, and deploy pipeline to AWS</sub>
-      <br>
-      <br>
-      <code>GitHub Actions</code> · <code>AWS</code> · <code>Docker</code> · <code>EC2</code>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Gautam2k7/kubernetes-eks-cluster">
-        <img src="https://repository-images.githubusercontent.com/00000000/00000000-0000-0000-0000-000000000000" width="260" alt="EKS Kubernetes Cluster"/>
-      </a>
-      <br>
-      <b>EKS Kubernetes Cluster</b>
-      <br>
-      <sub>Managed Kubernetes on AWS with Helm and monitoring</sub>
-      <br>
-      <br>
-      <code>EKS</code> · <code>Kubernetes</code> · <code>Helm</code> · <code>Prometheus</code>
-    </td>
-  </tr>
-</table>
-
-> Replace the project links and images above with your actual repositories. Don't have public repos yet? Start by pushing your Terraform configs, GitHub Actions workflows, or Dockerfiles!
-
----
-
 ## AWS and Cloud Services
 
 <details>
