@@ -73,15 +73,6 @@ I'm a Cloud and DevOps Engineer passionate about designing, deploying, and manag
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gautam2k7&show_icons=true&theme=tokyonight&hide_border=true" alt="Gautam's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-pins/?username=Gautam2k7&theme=tokyonight&hide_border=true" alt="Top pinned repos"/>
-</p>
-
----
-
 ## Let's Connect
 
 <p align="center">
