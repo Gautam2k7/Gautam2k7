@@ -22,12 +22,12 @@ There's no cloud I can't architect, only infrastructure I haven't built yet!
 
 <p align="center">
   <a href="https://www.credly.com/earner/earned/badge/789aecfb-ff38-46ad-8fea-f2f3b2449175">
-    <img src="https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-orange?style=for-the-badge&logo=amazonaws&logoColor=white" width="220" alt="AWS Certified Developer Associate"/>
+    <img src="https://img.shields.io/badge/AWS%20Certified-Developer%20%E2%96%B6%20Associate-orange?style=for-the-badge&logo=amazonaws&logoColor=white" width="260" alt="AWS Certified Developer Associate"/>
   </a>
 </p>
 
 <p align="center">
-  <b>AWS Certified Developer  Associate</b><br>
+  <b>AWS Certified Developer%Æ Associate</b><br>
   Issued by Amazon Web Services " June 22, 2026
 </p>
 
