@@ -2,7 +2,7 @@
 
 **AWS Cloud Engineer | DevOps Engineer** - Building scalable, secure, and automated cloud infrastructure
 
-[LinkedIn](https://linkedin.com/in/gautam-pattanayak) | [Email](mailto:gautam@example.com) | [Twitter](https://twitter.com/Gautam2k7)
+[LinkedIn](https://www.linkedin.com/in/gautam-pattanayak-9445b0197/) | [Email](mailto:gtpt27072000@gmail.com) | [Twitter](https://twitter.com/Gautam2k7)
 
 ---
 
@@ -135,8 +135,8 @@ I'm a Cloud and DevOps Engineer passionate about designing, deploying, and manag
 ## Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/gautam-pattanayak">LinkedIn</a> "
-  <a href="mailto:gautam@example.com">Email</a> "
+  <a href="https://www.linkedin.com/in/gautam-pattanayak-9445b0197/">LinkedIn</a> "
+  <a href="mailto:gtpt27072000@gmail.com">Email</a> "
   <a href="https://twitter.com/Gautam2k7">Twitter/X</a> "
   <a href="https://gautam2k7.github.io">Portfolio</a>
 </p>
