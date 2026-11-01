@@ -1,14 +1,26 @@
-# Hi, I'm Gautam Pattanayak
+[![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Gautam%20Pattanayak&fontSize=80&fontAlignY=35&desc=AWS%20Cloud%20Engineer%20%7C%20DevOps%20Engineer&descAlignY=55&descAlign=50)](https://github.com/Gautam2k7)
 
-**AWS Cloud Engineer | DevOps Engineer** - Building scalable, secure, and automated cloud infrastructure
+[![](https://komarev.com/ghpvc/?username=Gautam2k7&color=blueviolet&style=flat)](https://github.com/Gautam2k7)
 
-[LinkedIn](https://www.linkedin.com/in/gautam-pattanayak-9445b0197/) | [Email](mailto:gtpt27072000@gmail.com) | [Twitter](https://twitter.com/Gautam2k7)
+[![DevOps](https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,githubactions,nginx,bash,grafana,prometheus,jenkins,ansible,git,github,postgresql)](https://skillicons.dev)
+
+---
+
+There's no cloud I can't architect, only infrastructure I haven't built yet!
+
+- AWS Cloud Engineer | DevOps Engineer
+- Noida, India
+- https://gautam2k7.github.io/
+
+---
+
+[![snake gif](https://github.com/Sam-GitRepo/Sam-GitRepo/raw/output/github-contribution-grid-snake-dark.svg)](https://github.com/Sam-GitRepo/Sam-GitRepo/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
 ## About Me
 
-I'm a Cloud and DevOps Engineer passionate about designing, deploying, and managing scalable infrastructure on AWS. I love automating everything - from infrastructure setup to CI/CD pipelines - so teams can ship faster and more reliably.
+I'm a Cloud and DevOps Engineer passionate about designing, deploying, and managing scalable infrastructure on AWS. I love automating everything from infrastructure setup to CI/CD pipelines so teams can ship faster and more reliably.
 
 - Currently working on: Cloud infrastructure and automation
 - Learning: Advanced AWS services, Kubernetes, and Infrastructure as Code
@@ -68,8 +80,6 @@ I'm a Cloud and DevOps Engineer passionate about designing, deploying, and manag
 
 ## AWS and Cloud Services
 
-<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,githubactions,linux,bash,python,ansible" alt="AWS and DevOps Stack"/>
-
 <details>
   <summary>Click to expand detailed AWS services I work with</summary>
 
@@ -116,19 +126,8 @@ I'm a Cloud and DevOps Engineer passionate about designing, deploying, and manag
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gautam2k7&show_icons=true&theme=tokyonight&hide_border=true" alt="Gautam's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-pins/?username=Gautam2k7&theme=tokyonick&hide_border=true" alt="Top pinned repos"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-pins/?username=Gautam2k7&theme=tokyonight&hide_border=true" alt="Top pinned repos"/>
 </p>
-
----
-
-## AWS and DevOps Certifications
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-orange?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner"/>
-  <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect-orange?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Solutions Architect"/>
-</p>
-
-> Update or remove the certification badges based on your actual certifications.
 
 ---
 
