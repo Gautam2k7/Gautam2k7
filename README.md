@@ -18,6 +18,21 @@ There's no cloud I can't architect, only infrastructure I haven't built yet!
 
 ---
 
+## Certifications & Badges
+
+<p align="center">
+  <a href="https://www.credly.com/earner/earned/badge/789aecfb-ff38-46ad-8fea-f2f3b2449175">
+    <img src="https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-orange?style=for-the-badge&logo=amazonaws&logoColor=white" width="220" alt="AWS Certified Developer Associate"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>AWS Certified Developer  Associate</b><br>
+  Issued by Amazon Web Services " June 22, 2026
+</p>
+
+---
+
 ## About Me
 
 I'm a Cloud and DevOps Engineer passionate about designing, deploying, and managing scalable infrastructure on AWS. I love automating everything from infrastructure setup to CI/CD pipelines so teams can ship faster and more reliably.
