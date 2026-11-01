@@ -76,46 +76,63 @@ I'm a Cloud and DevOps Engineer passionate about designing, deploying, and manag
 ## Certifications & Badges
 
 <p align="center">
-  <a href="https://www.credly.com/earner/earned/badge/789aecfb-ff38-46ad-8fea-f2f3b2449175">
-    <img src="https://img.shields.io/badge/AWS%20Certified-Developer%20%E2%96%B6%20Associate-orange?style=for-the-badge&logo=amazonaws&logoColor=white" width="200" alt="AWS Certified Developer Associate"/>
+  <a href="https://www.credly.com/earner/earned/badge/789aecfb-ff38-46ad-8fea-f2f3b2449175" target="_blank">
+    <img src="https://img.shields.io/badge/AWS%20Certified-Developer%20%E2%96%B6%20Associate-orange?style=for-the-badge&logo=amazonaws&logoColor=white" width="230"/>
   </a>
-  <a href="https://www.credly.com/earner/earned/badge/f6ef967e-80e7-4401-b31b-89ebe3bc0fbf">
-    <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-orange?style=for-the-badge&logo=amazonaws&logoColor=white" width="200" alt="AWS Certified Cloud Practitioner"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/GautamPattanayak-1438/91C036D257E2F9BD?sharingId=30D509780071CA54">
-    <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Administrator%20Associate-blue?style=for-the-badge&logo=microsoftazure&logoColor=white" width="240" alt="Azure Administrator Associate"/>
-  </a>
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/GautamPattanayak-1438/4CA01DE554BF8978?sharingId=30D509780071CA54">
-    <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals-blue?style=for-the-badge&logo=microsoftazure&logoColor=white" width="200" alt="Azure Fundamentals"/>
+  <a href="https://www.credly.com/earner/earned/badge/f6ef967e-80e7-4401-b31b-89ebe3bc0fbf" target="_blank">
+    <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-orange?style=for-the-badge&logo=amazonaws&logoColor=white" width="230"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.credly.com/earner/earned/badge/c64a68a6-e604-48dc-a625-75ec863bc666">
-    <img src="https://img.shields.io/badge/Claude%20Certified-Architect%20Foundations-orange?style=for-the-badge&logo=anthropic&logoColor=white" width="240" alt="Claude Certified Architect Foundations"/>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/GautamPattanayak-1438/91C036D257E2F9BD?sharingId=30D509780071CA54" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Administrator%20Associate-blue?style=for-the-badge&logo=microsoftazure&logoColor=white" width="270"/>
+  </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/GautamPattanayak-1438/4CA01DE554BF8978?sharingId=30D509780071CA54" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals-blue?style=for-the-badge&logo=microsoftazure&logoColor=white" width="230"/>
   </a>
 </p>
 
 <p align="center">
-  <b>AWS Certified Developer Æ Associate</b> " June 22, 2026<br>
-  <b>AWS Certified Cloud Practitioner</b> " March 19, 2026<br>
-  <b>Microsoft Certified: Azure Administrator Associate</b> " September 13, 2025<br>
-  <b>Microsoft Certified: Azure Fundamentals</b> " August 12, 2025<br>
-  <b>Claude Certified Architect  Foundations</b> " September 19, 2026
+  <a href="https://www.credly.com/earner/earned/badge/c64a68a6-e604-48dc-a625-75ec863bc666" target="_blank">
+    <img src="https://img.shields.io/badge/Claude%20Certified-Architect%20Foundations-orange?style=for-the-badge&logo=anthropic&logoColor=white" width="270"/>
+  </a>
 </p>
+
+<p align="center">
+  <b>5 Cloud & AI Certifications</b> " <b>AWS " Microsoft Azure " Anthropic</b>
+</p>
+
+<table>
+  <tr>
+    <td align="center"><b>AWS Developer Associate</b><br><sub>Issued: June 22, 2026</sub></td>
+    <td align="center"><b>AWS Cloud Practitioner</b><br><sub>Issued: March 19, 2026</sub></td>
+    <td align="center"><b>Azure Administrator</b><br><sub>Issued: Sep 13, 2025</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Azure Fundamentals</b><br><sub>Issued: Aug 12, 2025</sub></td>
+    <td align="center"><b>Claude Architect Foundations</b><br><sub>Issued: Sep 19, 2026</sub></td>
+    <td align="center"></td>
+  </tr>
+</table>
 
 ---
 
 ## Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gautam-pattanayak-9445b0197/">LinkedIn</a> "
-  <a href="mailto:gtpt27072000@gmail.com">Email</a> "
-  <a href="https://twitter.com/Gautam2k7">Twitter/X</a> "
-  <a href="https://gautam2k7.github.io">Portfolio</a>
+  <a href="https://www.linkedin.com/in/gautam-pattanayak-9445b0197/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:gtpt27072000@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact_EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://x.com/Gautampattanay1" target="_blank">
+    <img src="https://img.shields.io/badge/X-Follow_000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X"/>
+  </a>
+  <a href="https://gautam2k7.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 <p align="center">
